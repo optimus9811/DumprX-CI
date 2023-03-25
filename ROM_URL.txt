@@ -1,1 +1,1 @@
-https://componentota-auto-cn.allawnfs.com/component-ota/21/10/16/53fc44a900ae444caf18fb07eb16f7cc.zip
+https://android.googleapis.com/packages/ota-api/package/99a4c814632616b365017129fa9f7e9e0080fb59.zip
